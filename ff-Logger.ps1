@@ -103,7 +103,7 @@ do {
     if ((Get-Date) -lt (Get-Date -Date $triggerTime)) {
     # Before trigger time: sleeping for the remaining time
         while ((Get-Date) -lt (Get-Date -Date $triggerTime)) {
-            Write-Host "There is" ((Get-Date -Date $triggerTime).AddDays(1)-(Get-Date)) "before scheduled loggers re-launch.`n" -ForegroundColor DarkGray
+            Write-Host "It is" ((Get-Date -Date $triggerTime).AddDays(1)-(Get-Date)) "before scheduled loggers re-launch.`n" -ForegroundColor DarkGray
             (Get-Date -Date $triggerTime)-(Get-Date) | Start-Sleep
         }
         # Trigger here!
