@@ -4,6 +4,7 @@
 [![Licence](https://img.shields.io/github/license/ykmn/ff-Logger?style=for-the-badge)](./LICENSE)
 ![Microsoft Windows](https://img.shields.io/badge/Microsoft-Windows-%FF5F91FF.svg?style=for-the-badge&logo=Microsoft%20Windows&logoColor=white)
 
+> 2024.09.10 Roman Ermakov <r.ermakov@emg.fm>
 
 Аудиологгер с функцией watchdog: запись нескольких веб-аудиопотоков и/или звука
 со входов звуковой карты.
