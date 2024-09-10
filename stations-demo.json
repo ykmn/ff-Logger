@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Audio Input 1",
+        "url":"@device_cm_{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\wave_{F84408DF-9C57-4C98-A66F-FBCC9EA194DD}",
+        "ext":"mp3",
+        "storage":"D:\\STORAGE",
+        "bitrate":"64K"       
+    },
+    {
+        "name":"Megapolis",
+        "url":"https://megapolisfm.hostingradio.ru/megapolisfm96.aacp",
+        "ext":"aac",
+        "storage":"D:\\STORAGE"   
+    },
+    {
+        "name":"Autoradio Moscow",
+        "url":"https://pub0202.101.ru:8000/stream/air/aac/64/100",
+        "ext":"mp3",
+        "storage":"D:\\STORAGE",
+        "bitrate":"96K"
+    },
+    {
+        "name":"Radio JAZZ",
+        "url":"https://nashe1.hostingradio.ru:80/jazz-128.mp3",
+        "ext":"mp3",
+        "storage":"D:\\STORAGE"   
+    },
+    {
+        "name":"Monte Carlo",
+        "url":"https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+        "ext":"aac",
+        "storage":"D:\\STORAGE"   
+    }
+]
