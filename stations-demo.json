@@ -7,26 +7,26 @@
         "bitrate":"64K"       
     },
     {
-        "name":"Megapolis",
+        "name":"Megapolis1",
         "url":"https://megapolisfm.hostingradio.ru/megapolisfm96.aacp",
         "ext":"aac",
         "storage":"D:\\STORAGE"   
     },
     {
-        "name":"Autoradio Moscow",
+        "name":"Autoradio Moscow1",
         "url":"https://pub0202.101.ru:8000/stream/air/aac/64/100",
         "ext":"mp3",
         "storage":"D:\\STORAGE",
         "bitrate":"96K"
     },
     {
-        "name":"Radio JAZZ",
+        "name":"Radio JAZZ1",
         "url":"https://nashe1.hostingradio.ru:80/jazz-128.mp3",
         "ext":"mp3",
         "storage":"D:\\STORAGE"   
     },
     {
-        "name":"Monte Carlo",
+        "name":"Monte Carlo1",
         "url":"https://montecarlo.hostingradio.ru/montecarlo96.aacp",
         "ext":"aac",
         "storage":"D:\\STORAGE"   
